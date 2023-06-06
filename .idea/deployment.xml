@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" showDifferentInSync="false" showNewOnSourceInSync="false" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="root@region-3.seetacloud.com:26342">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/workplace/fer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-3.seetacloud.com:40694">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/workspace/fer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-31.seetacloud.com:22860">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/workspace/fer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-31.seetacloud.com:22860 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/workspace/fer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

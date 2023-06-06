@@ -1,0 +1,200 @@
+load CK+ dataset successfully, train: 784, valid: 197
+
+num_block=4 --Loss:0.09356804937124252, Accuracy:0.9796954393386841
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_block=4 --Loss:1.1655563116073608, Accuracy:0.8139534592628479
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_block=2 -- Loss:1.3971867561340332, Accuracy:0.8372092843055725
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_block=2 -- Loss:0.7796280384063721, Accuracy:0.8604651093482971
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_block=2 -- Loss:0.7505801916122437, Accuracy:0.8372092843055725
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_blocks=4 -- Loss:0.7630059719085693, Accuracy:0.8372092843055725
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_blocks=4 -- Loss:1.194861888885498, Accuracy:0.8604651093482971
+load jaffe dataset successfully, train: 170, valid: 43
+load CK+ dataset successfully, train: 784, valid: 197
+
+
+num_blocks=2 -- Loss:0.17270666360855103, Accuracy:0.9543147087097168
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_blocks=2 -- Loss:0.7929379940032959, Accuracy:0.8139534592628479
+load CK+ dataset successfully, train: 784, valid: 197
+
+num_blocks=2 -- Loss:0.07086188346147537, Accuracy:0.9796954393386841
+load CK+ dataset successfully, train: 784, valid: 197
+num_blocks=8 -- Loss:0.1018197312951088, Accuracy:0.9746192693710327
+load CK+ dataset successfully, train: 784, valid: 197
+
+num_blocks=1 -- Loss:0.11956290155649185, Accuracy:0.9746192693710327
+load jaffe dataset successfully, train: 170, valid: 43
+
+num_blocks=1 -- Loss:1.2428776025772095, Accuracy:0.8139534592628479
+load jaffe dataset successfully, train: 170, valid: 43
+Model compiled successful.
+Model trained successful.
+num_blocks=8 -- Loss:0.9583383798599243, Accuracy:0.7906976938247681
+load CK+ dataset successfully, train: 784, valid: 197
+Model compiled successful.
+Model trained successful.
+num_blocks=4 -- Loss:0.16693523526191711, Accuracy:0.9492385983467102
+load CK+ dataset successfully, train: 784, valid: 197
+Model compiled successful.
+Model trained successful.
+num_blocks=4 -- Loss:0.11915668100118637, Accuracy:0.9695431590080261
+load fer2013 dataset successfully, train: 28697, valid: 3588
+Model compiled successful.
+Model trained successful.
+num_blocks=4 -- Loss:1.297989845275879, Accuracy:0.5189520716667175
+load fer2013 dataset successfully, train: 28697, valid: 3588
+Model compiled successful.
+load jaffe dataset successfully, train: 170, valid: 43
+Model compiled successful.
+load fer2013 dataset successfully, train: 28697, valid: 3588
+load fer2013 dataset successfully, train: 28697, valid: 3588
+load fer2013 dataset successfully, train: 28697, valid: 3588
+Model compiled successful.
+load fer2013 dataset successfully, train: 28697, valid: 3588
+Model compiled successful.
+Model trained successful.
+num_blocks=8 -- Loss:1.2705228328704834, Accuracy:0.52703458070755
+load jaffe dataset successfully, train: 784, valid: 98, test: 99
+Model compiled successful.
+load jaffe dataset successfully, train: 784, valid: 98, test: 99
+Model compiled successful.
+Model trained successful.
+ck+--Loss:0.003696235828101635, Accuracy:1.0
+load jaffe dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+ck+--Loss:0.43961769342422485, Accuracy:0.9390863180160522
+load jaffe dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load jaffe dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load jaffe dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load jaffe dataset successfully, train: 28697, valid: 3588, test: 3589
+Model compiled successful.
+load jaffe dataset successfully, train: 28697, valid: 3588, test: 3589
+Model compiled successful.
+load jaffe dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+ck+--Loss:0.49663013219833374, Accuracy:0.9492385983467102
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+17-05-27 - ck+--Loss:0.7126578688621521, Accuracy:0.8883248567581177
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+load fer2013_Training dataset successfully, train: 17218, valid: 5739, test: 5740
+Model compiled successful.
+load fer2013_Training dataset successfully, train: 17218, valid: 5739, test: 5740
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-07-59 - ck+--Loss:0.6320505738258362, Accuracy:0.796954333782196
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-08-05 - ck+--Loss:0.43375223875045776, Accuracy:0.8832487463951111
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-08-11 - ck+--Loss:0.45979782938957214, Accuracy:0.903553307056427
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-08-21 - ck+--Loss:0.4698474705219269, Accuracy:0.8578680157661438
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-08-31 - ck+--Loss:0.35262012481689453, Accuracy:0.9289340376853943
+load fer2013_PublicTest dataset successfully, train: 2152, valid: 718, test: 718
+Model compiled successful.
+Model trained successful.
+23-08-37 - fer2013_PublicTest--Loss:2.5194473266601562, Accuracy:0.3579387068748474
+load fer2013_PrivateTest dataset successfully, train: 2153, valid: 718, test: 718
+Model compiled successful.
+Model trained successful.
+23-08-49 - fer2013_PrivateTest--Loss:2.11613392829895, Accuracy:0.34818941354751587
+load fer2013_Training dataset successfully, train: 17218, valid: 5739, test: 5740
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-05 - ck+--Loss:0.4318264126777649, Accuracy:0.903553307056427
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-11 - ck+--Loss:0.5473063588142395, Accuracy:0.9543147087097168
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-17 - ck+--Loss:0.6525119543075562, Accuracy:0.9187816977500916
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-23 - ck+--Loss:0.9790055155754089, Accuracy:0.9086294174194336
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-31 - ck+--Loss:0.6960632801055908, Accuracy:0.913705587387085
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-37 - ck+--Loss:0.5673866271972656, Accuracy:0.9187816977500916
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-15-47 - ck+--Loss:0.5453854203224182, Accuracy:0.913705587387085
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-16-00 - ck+--Loss:0.5603294968605042, Accuracy:0.9187816977500916
+load ck+ dataset successfully, train: 588, valid: 196, test: 197
+Model compiled successful.
+Model trained successful.
+23-16-02 - ck+--Loss:0.5932196378707886, Accuracy:0.9340101480484009

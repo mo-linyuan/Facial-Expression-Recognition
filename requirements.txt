@@ -1,0 +1,13 @@
+numpy
+opencv-python==3.4.8.29
+pandas
+scipy
+tqdm
+matplotlib
+pillow
+pyqt5
+sklearn
+scikit-image
+dlib==19.6.1
+jupyter
+tensorflow
