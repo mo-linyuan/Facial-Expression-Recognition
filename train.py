@@ -93,14 +93,7 @@ elif opt.dataset == 'ck+':
 
 logger.info(
     f'load {opt.dataset} dataset successfully, train: {y_train.shape[0]}, valid: {y_valid.shape[0]}, test: {y_test.shape[0]}')
-model = MLPMixer(input_shape=(48, 48, 1),  # 图像的大小和通道数
-                 num_classes=8,  # 分类数
-                 num_blocks=8,  # Mixer Layer数量
-                 patch_size=8,  # 图像块大小，8x8
-                 hidden_dim=64,
-                 tokens_mlp_dim=32,
-                 channels_mlp_dim=64,
-                 use_softmax=True)
+model = MLPMixer()
 # model.summary()
 adam = Adam(lr=0.001)
 # 编译模型

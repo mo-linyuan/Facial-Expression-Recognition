@@ -132,14 +132,14 @@ class MixerBlock(Layer):
 
 
 def MLPMixer(
-        input_shape: int,
-        num_classes: int,
-        num_blocks: int,
-        patch_size: int,
-        hidden_dim: int,
-        tokens_mlp_dim: int,
-        channels_mlp_dim: int = None,
-        use_softmax: bool = False,
+        input_shape=(48, 48, 1),  # 图像的大小和通道数
+        num_classes=7,  # 分类数
+        num_blocks=8,  # Mixer Layer数量
+        patch_size=8,  # 图像块大小，8x8
+        hidden_dim=512,  # 图像块MLP和通道MLP的输入和输出维度
+        tokens_mlp_dim=256,
+        channels_mlp_dim=2048,
+        use_softmax=True,
 ):
     height, width, _ = input_shape
 
