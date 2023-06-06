@@ -67,7 +67,7 @@ callback = [
 
 - 摄像头识别
 
-![image-20230606162510908](https://picgo-mly.obs.cn-north-4.myhuaweicloud.com/images/image-20230606162510908.png)
+省略
 
 - 识别识别
 
